@@ -15,7 +15,7 @@
 
 ```cd workspace```
 
-```git clone git@github.cds.internal.unity3d.com:boris-oreshkin/protores.git```
+```git clone [git@github.cds.internal.unity3d.com:boris-oreshkin/protores.git](https://github.com/boreshkinai/protores)```
 
 
 ## Setup : Docker
