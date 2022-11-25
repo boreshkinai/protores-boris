@@ -53,8 +53,8 @@ def download_and_unzip(local_dir, dataset_name, url):
 class DatasetLoader():
 	def __init__(self, dataset_path):
 		self.known_datasets = {
-			"deeppose_paper2021_minimixamo": "https://storage.googleapis.com/unity-rd-ml-graphics-deeppose/datasets/deeppose_paper2021_minimixamo.zip",
-			"deeppose_paper2021_miniunity": "https://storage.googleapis.com/unity-rd-ml-graphics-deeppose/datasets/deeppose_paper2021_miniunity.zip",
+			"deeppose_paper2021_minimixamo": "https://storage.googleapis.com/unity-rd-ml-graphics-prd-public/deeppose/datasets/deeppose_paper2021_minimixamo.zip",
+			"deeppose_paper2021_miniunity": "https://storage.googleapis.com/unity-rd-ml-graphics-prd-public/deeppose/datasets/deeppose_paper2021_miniunity.zip",
 		}
 		self.dataset_path = dataset_path
 
